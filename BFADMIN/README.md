@@ -1,8 +1,8 @@
 # BFADMIN
 
-[BFADMIN](https://bfadmin.de) (2011–2012) was a service which offered web administration for Battlefield 3 servers adapting the Look & Feel of [Battlelog](https://battlelog.battlefield.com/bf3/en).
+BFADMIN (2011–2012) was a service which offered web administration for Battlefield 3 servers adapting the Look & Feel of [Battlelog](https://battlelog.battlefield.com/bf3/en).
 
-At the end, the tool was used by about three hundred BF3 servers, incuding two official EA servers (*EA Cologne #1* and *#2*). With raising costs and due to Electronic Arts' (EA) unfortunate lack of appropriate support for the community (the developers, the players) the project already had to close down in late 2012.
+At the end, the tool was used by about three hundred BF3 servers, including two official EA servers (*EA Cologne #1* and *#2*). With raising costs and due to Electronic Arts' (EA) unfortunate lack of appropriate support for the community (the developers, the players) the project already had to close down in late 2012.
 
 BFADMIN was developed in PHP, while a Python daemon served connections to the servers.
 
